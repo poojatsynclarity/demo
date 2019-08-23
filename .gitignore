@@ -1,0 +1,5 @@
+vendor/
+.phpcs.xml.dist
+.travis.yml
+phpunit.xml.dist
+uploads

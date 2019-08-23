@@ -1,0 +1,9 @@
+{
+    "require": {
+        "squizlabs/php_codesniffer": "*",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "phpro/grumphp": "^0.15.0"
+    }
+}
